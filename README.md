@@ -1,3 +1,4 @@
+```bash
 # 1. Check internet
 ping archlinux.org
 
@@ -82,3 +83,4 @@ systemctl enable --now seatd
 exit
 umount -R /mnt
 reboot
+```
